@@ -1,0 +1,368 @@
+#EXTM3U
+
+# ===== DESPORTO =====
+
+#EXTINF:-1 group-title="Desporto",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Plus
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Sport
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",5Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",30A Golf Kingdom
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+
+#EXTINF:-1 group-title="Desporto",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
+#EXTINF:-1 group-title="Desporto",ACC Digital Network
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 group-title="Desporto",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 group-title="Desporto",Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+#EXTINF:-1 group-title="Desporto",American Ninja Warrior
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior
+
+#EXTINF:-1 group-title="Desporto",AntenaPlay Events
+https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
+
+#EXTINF:-1 group-title="Desporto",AntenaSport
+https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Arena4
+http://88.212.7.14/live/arena4/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Arena Sport 1
+http://88.212.15.50/live/test_arenasport/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Arena Sport 2
+http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Arryadia
+http://149.100.11.252:8000/play/a065/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Desporto",Astrahan.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",beIN Sports USA
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",beIN SPORTS XTRA en Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 group-title="Desporto",BEK Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Belarus-5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bicolor+
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bicolor+ Premium 2
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bicolor+ Premium 3
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",Bicolor+ Premium
+https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="Desporto",Brondby TV
+https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
+
+#EXTINF:-1 group-title="Desporto",Canal Showsport
+https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 2 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 3 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 4 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 5 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 6 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 7 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport 8 SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport France
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+
+#EXTINF:-1 group-title="Desporto",Canal+ Sport SK
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+
+#EXTINF:-1 group-title="Desporto",CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+
+#EXTINF:-1 group-title="Desporto",CBS Sports HQ
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+
+#EXTINF:-1 group-title="Desporto",CCTV-5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+
+#EXTINF:-1 group-title="Desporto",CCTV-16 HD
+http://74.91.26.218:82/live/cctv16hd.m3u8
+
+#EXTINF:-1 group-title="Desporto",CCTV-Billiards
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Desporto",CCTV-Golf & Tennis
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+
+#EXTINF:-1 group-title="Desporto",CCTV-Storm Football
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="Desporto",CDN Deportes
+https://hls.tvabierta.net/hls/036.m3u8
+
+#EXTINF:-1 group-title="Desporto",Claro Sports
+http://45.171.64.30:6060/play/a00w/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+#EXTINF:-1 group-title="Desporto",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+
+#EXTINF:-1 group-title="Desporto",CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",CRTV Sports and Entertainment
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",CT Sport
+http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 group-title="Desporto",DAZN Combat
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+
+#EXTINF:-1 group-title="Desporto",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+
+#EXTINF:-1 group-title="Desporto",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+
+#EXTINF:-1 group-title="Desporto",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",DD Sports HD
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+
+#EXTINF:-1 group-title="Desporto",DeporTV
+http://158.172.155.130:8000/play/a09y/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Dong Nai TV 2
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+
+#EXTINF:-1 group-title="Desporto",DraftKings Network
+https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8
+
+#EXTINF:-1 group-title="Desporto",Eleven Sports 1
+http://92.114.85.87:8002/play/a00e/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Eleven Sports 2
+http://92.114.85.87:8002/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Eleven Sports 3
+http://92.114.85.87:8002/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Eleven Sports 4
+http://92.114.85.87:8002/play/a00h/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",Equidia
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN 2 United States
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN 2 Latin America Colombia
+http://190.61.47.54:8000/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN 4 Brazil
+http://181.78.197.59:8000/play/a07n/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN8 The Ocho
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN Brazil
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN United States
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN Latin America Colombia
+http://181.78.211.244:8005/play/a08q/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN Latin America Mexico
+http://168.228.44.241:9997/play/a06p/index.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Desporto",ESPN Premium HD
+http://158.172.155.130:8000/play/a0ao/index.m3u8# ===== ADULTOS =====
+
+#EXTINF:-1 group-title="Adultos",MyCamTV MILF
+https://live.mycamtv.com/milf.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Mature
+https://live.mycamtv.com/bigtits.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Arab Girls
+https://live.mycamtv.com/arab.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Ebony Girls
+https://live.mycamtv.com/ebony.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Asian Girls
+https://live.mycamtv.com/asian.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Brunette Girls
+https://live.mycamtv.com/brunette.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Latina Girls
+https://live.mycamtv.com/latina.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV White Girls
+https://live.mycamtv.com/white.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Blonde Girls
+https://live.mycamtv.com/blonde.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Anal
+https://live.mycamtv.com/anal.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Big Ass Girls
+https://live.mycamtv.com/bigass.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Girls Squirt
+https://live.mycamtv.com/squirt.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Big Tits Girls
+https://live.mycamtv.com/bigtits.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Skinny Girls
+https://live.mycamtv.com/skinny.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Medium Girls
+https://live.mycamtv.com/medium.m3u8
+
+#EXTINF:-1 group-title="Adultos",MyCamTV Blowjob
+https://live.mycamtv.com/blowjob.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Live Cams
+http://play.iptvxxx.net/livecams.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX MILF
+http://play.iptvxxx.net/milf.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Big Dick
+http://play.iptvxxx.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Big Tits
+http://play.iptvxxx.net/bigtits.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Fetish
+http://play.iptvxxx.net/fetish.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Pornstar
+http://play.iptvxxx.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Big Ass
+http://play.iptvxxx.net/bigass.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Interracial
+http://play.iptvxxx.net/interracial.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Latina
+http://play.iptvxxx.net/latina.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX POV
+http://play.iptvxxx.net/pov.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Blowjob
+http://play.iptvxxx.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Hardcore
+http://play.iptvxxx.net/hardcore.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Cuckold
+http://play.iptvxxx.net/cuckold.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Threesome
+http://play.iptvxxx.net/threesome.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Russian
+http://play.iptvxxx.net/russian.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Lesbian
+http://play.iptvxxx.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Rough
+http://play.iptvxxx.net/rough.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Gangbang
+http://play.iptvxxx.net/gangbang.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Anal
+http://play.iptvxxx.net/anal.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Compilation
+http://play.iptvxxx.net/compilation.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Brunette
+http://play.iptvxxx.net/brunette.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Blonde
+http://play.iptvxxx.net/blonde.m3u8
+
+#EXTINF:-1 group-title="Adultos",XXX Gay
+http://play.iptvxxx.net/gay.m3u8
